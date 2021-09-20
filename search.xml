@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>开源音乐神器</title>
+    <url>/awesome-musical-tools/</url>
+    <content><![CDATA[<blockquote>
+<p>GitHub 上有 a great number of 很棒的音乐工具，堪称神器。这里就介绍以下我使用过的 3 款。</p>
+</blockquote>
+<p><a id="more"></a></p>
+<h1 id="1mkonlinemusicplayer"><a class="anchor" href="#1mkonlinemusicplayer">#</a> 1.MKOnlineMusicPlayer</h1>
+<p>GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL21lbmdrdW5zb2Z0L01LT25saW5lTXVzaWNQbGF5ZXI=">https://github.com/mengkunsoft/MKOnlineMusicPlayer</span><br />
+<img data-src="https://i.loli.net/2020/05/10/oW7pxCytvQaTNHf.png" alt="播放列表" /><br />
+<img data-src="https://i.loli.net/2020/05/10/zrpRfPQKijU28go.png" alt="音乐播放与下载" /><br />
+ MKOnlineMusicPlayer 是作者孟坤开发的在线音乐播放器，支持多平台音乐搜索、播放、下载🌝，有实时同步的歌词，还可以同步自己的网易云音乐歌单<img data-src="https://i.loli.net/2020/05/10/BUvQ1pTSgZEaO5u.png" alt="滑稽" /><br />
+而且界面也很美观，适配移动端，仅占数百 KB 空间。搭建简便，只需 PHP+Nginx 即可食用。注意，使用 PHP 7.2 搭建可能会出现歌单无法加载的问题。<br />
+欢迎访问我搭建好的地址：<span class="exturl" data-url="aHR0cDovL211c2ljLmlhbXNqeS5jb206ODgvcGxheWVyLw==">http://music.iamsjy.com:88/player/</span></p>
+<h1 id="2音乐搜索器"><a class="anchor" href="#2音乐搜索器">#</a> 2. 音乐搜索器</h1>
+<p>GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL21haWNvbmcvbXVzaWM=">https://github.com/maicong/music</span><br />
+<img data-src="https://i.loli.net/2020/05/10/mGgKSjWwy7BdU9O.png" alt="主页" /><br />
+<img data-src="https://i.loli.net/2020/05/10/mgU4Y6BHtiJSWVl.png" alt="搜索音乐" /><br />
+音乐搜索器是作者麦葱开发的支持多平台音乐搜索、播放、下载的工具。与前者孟坤在线播放器不同的是，音乐搜索器的功能侧重音乐搜索及下载，支持更多的平台：网易云、QQ 音乐、虾米音乐、百度音乐、喜马拉雅 FM、5Sing 等，播放功能则不够完善。占空间极小，仅几十 KB。同样搭建简便，只需 PHP+Nginx。<br />
+欢迎访问我搭建好的地址：<span class="exturl" data-url="aHR0cDovL211c2ljLmlhbXNqeS5jb206ODgv">http://music.iamsjy.com:88/</span></p>
+<h1 id="3unlock-music"><a class="anchor" href="#3unlock-music">#</a> 3.Unlock Music</h1>
+<p>GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2l4NjQvdW5sb2NrLW11c2lj">https://github.com/ix64/unlock-music</span><br />
+<img data-src="https://i.loli.net/2020/05/10/Nf9OL4iXdeKMVZY.png" alt="主页" /><br />
+ Unlock Music 是在一款在浏览器中解锁加密的音乐文件的工具。通常情况，付费音乐都是加密的文件格式，下载以后只能在会员期内在指定播放器内播放，并且会员到期之后如不续费将无法播放。Unlock Music 可以将加密的音乐转化成 mp3 格式，支持批量解锁、拖放解锁、在线播放、PWA、多线程，可谓十分人性化。Unlock Music 是在浏览器中解锁，无需上传到服务器。由于 PWA 等特性，支持离线使用。可以搭建在 GitHub Pages、Gitee Pages 等，亦提供了离线使用的版本。<br />
+欢迎使用：<span class="exturl" data-url="aHR0cHM6Ly9pYW1zankuZ2l0ZWUuaW8vbXVzaWMv">https://iamsjy.gitee.io/music/</span><br />
+ 本文完</p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>分享</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>优秀、纯净、可靠的 WinPE</title>
+    <url>/awesome-winpe/</url>
+    <content><![CDATA[<p>以下 PE 由个人或团队开发，无广告、无收费、无劫持，可以说是用爱发电。<br />
+每一款都很优秀，值得一试（当然优秀的还不止这么多）。~~ 坚决抵制老毛桃、大白菜、U 深度、电脑店等不可靠的商业 PE。~~ 网络功能除了微 PE 应该都支持。按发现的时间先后排序。</p>
+<h4 id="微pe"><a class="anchor" href="#微pe">#</a> 微 PE</h4>
+<p><span class="exturl" data-url="aHR0cDovL3d3dy53ZXBlLmNvbS5jbi9kb3dubG9hZC5odG1s">http://www.wepe.com.cn/download.html</span><br />
+ 微 PE 团队开发。纯净无捆绑（用过的都知道）<br />
+缺点：不支持网络</p>
+<h4 id="一个不知道叫什么好的u盘启动工具集"><a class="anchor" href="#一个不知道叫什么好的u盘启动工具集">#</a> 一个不知道叫什么好的 U 盘启动工具集</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly8zNTkzMDMyNjcuZ2l0aHViLmlvL1BFLw==">https://359303267.github.io/PE/</span><br />
+ 某初中生坚持制作这个 U 盘启动工具集到大学毕业，如今由于个人原因已停止更新。<br />
+优点：</p>
+<ul>
+<li>支持网络</li>
+<li>集成许多常用工具</li>
+<li>系统加载到内存中运行（也就是 RAMOS），使用很流畅<br />
+缺点：</li>
+<li>占用空间较大</li>
+</ul>
+<p><img data-src="https://ppmm.org/images/2021/02/17/0be2adbc27c55347278c7748576c0c79.png" alt="0be2adbc27c55347278c7748576c0c79.png" /><br />
+<img data-src="https://ppmm.org/images/2021/02/17/883c9ce0209e179cc38610fbff6ebf96.png" alt="883c9ce0209e179cc38610fbff6ebf96.png" /></p>
+<h4 id="firpe"><a class="anchor" href="#firpe">#</a> FirPE</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly9maXJwZS5jbi9wYWdlLTI0Nw==">https://firpe.cn/page-247</span><br />
+ 某 00 后创立。<br />
+它具有简约、易操作等特点，使用起来十分人性化。以 U 盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具，有效提高系统安装效率。<br />
+<img data-src="https://ppmm.org/images/2021/02/17/ab1a3555fc1bdaeb06326799e695ed20.jpg" alt="ab1a3555fc1bdaeb06326799e695ed20.jpg" /><br />
+<img data-src="https://ppmm.org/images/2021/02/17/10c694c1badb442780e9199a169c1a54.png" alt="10c694c1badb442780e9199a169c1a54.png" /></p>
+<h4 id="edgeless"><a class="anchor" href="#edgeless">#</a> Edgeless</h4>
+<p>官网：<span class="exturl" data-url="aHR0cHM6Ly9ob21lLmVkZ2VsZXNzLnRvcA==">https://home.edgeless.top</span><br />
+ 部分开源：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0Nub3RlY2gvRWRnZWxlc3MtUHJvamVjdA==">https://github.com/Cnotech/Edgeless-Project</span><br />
+ 背景：<br />
+Edgeless 是 Cno 在高二就开始酝酿的一个 PE 项目，高三下半学期（对就是高考前）一直在策划 Edgeless 的相关内容，如今已上大学。</p>
+<p>Edgeless 的创立旨在试图替代 WTG 的部分应用场景 。<br />
+特点：</p>
+<ul>
+<li>强大的插件功能（能兼容其他 PE）</li>
+<li>优雅的主题功能</li>
+<li>基于 Win10 的 PE 核心</li>
+</ul>
+<p><img data-src="https://ppmm.org/images/2021/02/17/e582de22869acdc77f9dd6a1dc0e37e5.jpg" alt="e582de22869acdc77f9dd6a1dc0e37e5.jpg" /></p>
+<h4 id="hikari-pe"><a class="anchor" href="#hikari-pe">#</a> Hikari PE</h4>
+<p>文档：<span class="exturl" data-url="aHR0cHM6Ly9oaWthcmlwZS1zYy5oaWthcmljYWx5eC5jb20=">https://hikaripe-sc.hikaricalyx.com</span><br />
+ 和微 PE 这样的行业标杆不同，Hikari PE 在保证功能稳定的情况下，紧跟时代前沿，探索使用 PE 维护 PC 的更多可能性。<br />
+<img data-src="https://ppmm.org/images/2021/02/17/c2ad1bb7bb6c889c496ca952426f53d9.png" alt="c2ad1bb7bb6c889c496ca952426f53d9.png" /><br />
+<img data-src="https://ppmm.org/images/2021/02/17/ace008b5b91ba12bbb6cf95c11c02280.png" alt="ace008b5b91ba12bbb6cf95c11c02280.png" /></p>
+<hr />
+<h3 id="windows-镜像下载"><a class="anchor" href="#windows-镜像下载">#</a> Windows 镜像下载</h3>
+<h4 id="msdn我告诉你"><a class="anchor" href="#msdn我告诉你">#</a> MSDN，我告诉你</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly9tc2RuLml0ZWxseW91LmNu">https://msdn.itellyou.cn</span><br />
+ 新版网站：<span class="exturl" data-url="aHR0cHM6Ly9uZXh0Lml0ZWxseW91LmNu">https://next.itellyou.cn</span><br />
+ 镜像全部来自微软 MSDN，没有任何修改。<br />
+缺点：</p>
+<h4 id="uup-dump"><a class="anchor" href="#uup-dump">#</a> UUP dump</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cudXVwZHVtcC5uZXQ=">https://www.uupdump.net</span><br />
+ 轻松地从 Windows 更新服务器下载 UUP 文件。<br />
+优点：</p>
+<ul>
+<li>自由选择版本</li>
+<li>多线程，下载速度更快<br />
+缺点：制作时长很大程度受到机器性能影响</li>
+</ul>
+<h4 id="uup-generation-project"><a class="anchor" href="#uup-generation-project">#</a> UUP Generation Project</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly91dXAucmctYWRndWFyZC5uZXQ=">https://uup.rg-adguard.net</span><br />
+ 优点：同 UUP dump<br />
+ 缺点：</p>
+<ul>
+<li>制作时长很大程度受到机器性能影响</li>
+<li>该网站国内访问缓慢</li>
+</ul>
+<h4 id="latest10"><a class="anchor" href="#latest10">#</a> Latest10</h4>
+<p><span class="exturl" data-url="aHR0cHM6Ly9sYXRlc3QxMC53aW4=">https://latest10.win</span><br />
+ 服务器定时检测新 Build，只要有更新则触发服务器进行转换 / 生成镜像，并上传到云服务。镜像无修改。<br />
+优点：</p>
+<ul>
+<li>下载速度快</li>
+<li>镜像无需制作，直接下载</li>
+</ul>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>WinPE</tag>
+        <tag>精选</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>五月十八日随感</title>
+    <url>/diary-2020-05-18/</url>
+    <content><![CDATA[<p>今天写征文，稿纸上信息栏里要填学生电子邮箱。好多同学表示没有邮箱，然后老师让他们填自己的 QQ 邮箱，结果有一部同学连邮箱账号都不会写。拿仇校长的话来说：『水平高的。』<br />
+<a id="more"></a><br />
+ 即将分班，心情比较复杂。我们班主任教数学，比较「凶」。英语老师还行，她很厉害，是十几年里唯一一个二十多岁考入我们学校的英语老师（她自己说的）。我们数学老师的凶，可以说是全年级闻名的。我清晰地记得上学期她把三个女生拽出去骂，骂声响彻整栋楼，回响在技校园里（这里我使用了夸张的手法）。何必如此呢，仅仅是一件微不足道的事 (我记得三个女生中有一个是被冤枉的，其实殳犯什么错）。上个学期，有的同学在她的课上回答不出问题，就被她拉到讲台上，让他们讲题目（我也被叫上去过)。题目不会讲会受批评，甚至她会踢你一脚，就算讲对了方法她不满意也可能会遭到变相批评（就是说自己的方法怎么怎么好，那个同学的方法怎么怎么差）。有时她会前直接在群里批评谁做得不好，不留情面。她笑的时候很少，脸上时常显露出怒色，这或许是她的特色吧。听英语老师说，各科老师会同班主任教同一个班。选史政生的同学骇然，因为他们格极有可能分到我们班主任班上，然而最这并不是他们所希望的。<br />
+我们英语老师对我们比较严格，作业必须限时完成，默写错得多要抄写并重默，上学期有人英语默写作整被她抓到直接送回家。但她比起我们班主任还是讨人喜欢多了。她帮我们划重点，讲语法点，积累生词，有些老师也许不会讲的她也讲了。她英语课总是提前两分钟到教室，可谓认真负责。还是我们不争气，默写结果不令人满意，上课回答问题不积极，一片死气沉沉的样子。现在快分班了，英语老师说：“其实也算不上伤感，只是感觉自己培养的东西白白地送给了别人。” 换个角度想想，也确实如此。英语老师换了，未必比现在的好，默写同样也是逃不过的。有个同学表示，他希望分班后数学老师换掉，其他老师保持不变。不过再想想，数学老师（也是班主任）本质上还是对我们好的，只是她的管理方法声我们不能接受罢了，我们也不应当事负她的希望。<br />
+和同学们相处才不到一年，如今就要分离了。虽然还是在同一所学校，但相处的时间更少了，难免不舍。听英语老师说，刚分完班会很乱，因为大家都处在对旧环境的不舍与对新环境的新奇之中，需要定的时间才能适应。<br />
+2020 年 5 月 18 日</p>
+<p>2020.5.22 PS：听说我们以前的班主任变了，变得很温柔。。。</p>
+]]></content>
+      <categories>
+        <category>随感</category>
+      </categories>
+      <tags>
+        <tag>随感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Foliate – 适用于 Linux 桌面的简单、现代的电子书阅读器</title>
+    <url>/foliate/</url>
+    <content><![CDATA[<p>标题及第一张图片来自<span class="exturl" data-url="aHR0cHM6Ly93d3cuYXBwaW5uLmNvbS9mb2xpYXRlLWZvci1saW51eC8=">小众软件</span>（懒得写了)<br />
+<img data-src="https://gitee.com/iamsjy/smzdm-pic/raw/master/111.png" alt="111" /></p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/f99635a68b298c7ac56160ae43f7630e.jpg" alt="f99635a68b298c7ac56160ae43f7630e.jpg" /><br />
+<a id="more"></a></p>
+<h2 id="foliate-简介"><a class="anchor" href="#foliate-简介">#</a> Foliate 简介</h2>
+<ul>
+<li>支持的格式：</li>
+</ul>
+<ul>
+<li>EPUB（.epub，.epub3）</li>
+<li>Kindle（.azw，.azw3）和 Mobipocket（.mobi）</li>
+<li>FictionBook（.fb2，.fb2.zip）</li>
+<li>漫画书档案（.cbr，.cbz，.cbt，.cb7）</li>
+<li>纯文本（.txt）</li>
+</ul>
+<ul>
+<li>单栏，两栏或连续滚动版式</li>
+<li>调整字体，行距和边距</li>
+<li>自定义颜色和亮度</li>
+<li>带有章节标记的阅读进度滑块</li>
+<li>书签和注释</li>
+<li>在书中查找</li>
+<li>弹出窗口中的脚注</li>
+<li>触摸板手势 - 使用两指滑动即可翻页</li>
+<li>使用维基词典，维基百科， dictd 和 sdcv 进行快速查询字典，或使用谷歌翻译文本</li>
+<li>由 eSpeak NG 和 Festival 的支持的基本文本转语音功能</li>
+</ul>
+<h2 id="官方网站github"><a class="anchor" href="#官方网站github">#</a> 官方网站 &amp; Github</h2>
+<p><span class="exturl" data-url="aHR0cHM6Ly9qb2huZmFjdG90dW0uZ2l0aHViLmlvL2ZvbGlhdGUv">官方网站</span></p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2pvaG5mYWN0b3R1bS9mb2xpYXRl">Github</span></p>
+<hr />
+<p>由于官方没有提供  <code>armhf</code>  和  <code>arm64</code>  版的二进制程序，于是按照  <code>README</code>  自己编译了一份，完美兼容树莓派。<img data-src="https://gitee.com/iamsjy/smzdm-pic/raw/master/34.png" alt="34" /></p>
+<p>下载地址：<span class="exturl" data-url="aHR0cHM6Ly9pYW1zankubGFuem91cy5jb20vaXdvcVZmcmJ0dGc=">https://iamsjy.lanzous.com/iwoqVfrbttg</span></p>
+<p>以后我应该不会更新，需要最新版本的请自行编译（不难）。</p>
+<h3 id="展示一下效果"><a class="anchor" href="#展示一下效果">#</a> 展示一下效果</h3>
+<p>双击下载下来的  <code>deb</code>  包即可安装，安装完点击  <code>Foliate</code>  图标。</p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/fd8ab9f2adbd2f80065fc5ed71c8ee40.png" alt="fd8ab9f2adbd2f80065fc5ed71c8ee40.png" /></p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/0d23ad08e72cdad46849f1879ede8b06.png" alt="0d23ad08e72cdad46849f1879ede8b06.png" /></p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/cab09b79fc6dfbaffed961211526d84e.png" alt="cab09b79fc6dfbaffed961211526d84e.png" /></p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/8dc9c6d79867e6b0369feff4ef239ac6.png" alt="8dc9c6d79867e6b0369feff4ef239ac6.png" /></p>
+<p>找了本电子书测试了一下</p>
+<p>（ <code>EPUB</code>  电子书双击即可用  <code>Foliate</code>  打开，其他的可以打开  <code>Foliate</code>  后导入。）</p>
+<p><img data-src="https://ppmm.org/images/2020/08/18/4d951f8533bbef5718aa3b681456d0d7.png" alt="4d951f8533bbef5718aa3b681456d0d7.png" /></p>
+]]></content>
+      <categories>
+        <category>树莓派</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>树莓派</tag>
+        <tag>开源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>玩转 GitHub Actions</title>
+    <url>/getting-started-with-github-actions/</url>
+    <content><![CDATA[<h1 id="介绍"><a class="anchor" href="#介绍">#</a> 介绍</h1>
+<p>GitHub Actions 是 GitHub 在 2018 年推出的持续集成服务，比 Travis CI 更强大，支持在线编译、运行测试、第三方发布等功能。更重要的是，GitHub 能免费使用，不用你花一分钱。</p>
+<h1 id="教程"><a class="anchor" href="#教程">#</a> 教程</h1>
+<h2 id="github-actions-官方中文文档"><a class="anchor" href="#github-actions-官方中文文档">#</a> GitHub Actions 官方中文文档</h2>
+<p><span class="exturl" data-url="aHR0cHM6Ly9oZWxwLmdpdGh1Yi5jb20vY24vYWN0aW9ucw==">https://help.github.com/cn/actions</span><br />
+GitHub Actions 使用的虚拟机配置如下<br />
+<a id="more"></a><br />
+<img data-src="https://ppmm.org/images/2020/06/26/9c30609bf8c3510bfadbdc5cd50eddf8.png" alt="GitHub Actions" /></p>
+<h2 id="阮一峰老师的-github-actions-教程"><a class="anchor" href="#阮一峰老师的-github-actions-教程">#</a> 阮一峰老师的 GitHub Actions 教程</h2>
+<p>GitHub Actions 对于普通用户上手门槛较高，可以看<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTkvMDkvZ2V0dGluZy1zdGFydGVkLXdpdGgtZ2l0aHViLWFjdGlvbnMuaHRtbA==">阮一峰老师的入门教程</span></p>
+<h1 id="最佳实践"><a class="anchor" href="#最佳实践">#</a> 最佳实践</h1>
+<h2 id="使用github-actions在线编译openwrt固件"><a class="anchor" href="#使用github-actions在线编译openwrt固件">#</a> 使用 GitHub Actions 在线编译 OpenWrt 固件</h2>
+<p>Github 地址：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0tGRVJNZXJjZXIvT3BlbldydC1DSQ==">https://github.com/KFERMercer/OpenWrt-CI</span><br />
+ 支持自动定制固件，自动调整依赖及生成配置文件，无需上传配置。兼容 Lean 大的 OpenWrt 和官方 OpenWrt。</p>
+<h2 id="使用-github-actions-实现hexo-自动部署"><a class="anchor" href="#使用-github-actions-实现hexo-自动部署">#</a> 使用 GitHub Actions 实现 Hexo 自动部署</h2>
+<p><span class="exturl" data-url="aHR0cHM6Ly9zc3BhaS5jb20vcG9zdC81ODAxMw==">用 GitHub 搭建静态博客太繁琐？用这个小工具实现「傻瓜式」发布</span><br />
+<span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pfam9obm55L2FydGljbGUvZGV0YWlscy8xMDM5MTAzNzM="> Github Actions 通过 SSH 自动部署 Hexo</span></p>
+<h2 id="更多-actions"><a class="anchor" href="#更多-actions">#</a> 更多 Actions</h2>
+<p>GitHub 官方的<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL21hcmtldHBsYWNlP3R5cGU9YWN0aW9ucw==">市场</span>有不少 action，你可以直接引用他人编写的 action。<br />
+还有个名叫<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3NkcmFzL2F3ZXNvbWUtYWN0aW9ucw=="> awesome-actions</span>，汇聚了不少 action。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub</span>.</p>
+<h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2>
+<h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3>
+<figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></table></figure><p><a id="more"></a><br />
+More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p>
+<h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3>
+<figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p>
+<h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3>
+<figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p>
+<h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3>
+<figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>如何拥有一个免费的博客？</title>
+    <url>/how-to-have-a-free-blog/</url>
+    <content><![CDATA[<p>学习技巧是什么？我认为每当解决一个问题之后都应当总结并记录下来，方便以后回顾。~~ 虽然我学习并不好。~~ 我发现，很多独立博客中都有优质的资料，给我新的发现。<br />
+“对任何渴望进步的人来说，写博客 / 文章 / 回答对自己的成长帮助都是巨大的。频率和数量不必过分强求，有话要说就写写，没事就歇歇，随意点。因为坚持写作的那一刻起，你就已经开始受益。” 这是某个博主说的。<br />
+那么，如何拥有一个博客呢？<br />
+<a id="more"></a></p>
+<h1 id="1使用非独立博客"><a class="anchor" href="#1使用非独立博客">#</a> 1. 使用非独立博客</h1>
+<p>你可以选择在 CSDN、简书或者 cnblogs 上建立自己的博客，只要注册成功就能使用，无需域名、服务器，十分简便快捷。但这些平台有不少限制，比如个性化功能比较弱，而且还有广告的干扰。除此以外，文章的内容可能还有限制，写一下较为敏感的内容还有被和谐的风险。</p>
+<h1 id="2使用静态网页托管服务"><a class="anchor" href="#2使用静态网页托管服务">#</a> 2. 使用静态网页托管服务</h1>
+<p>一些代码托管平台提供静态网页托管服务，国外的有 GitHub、Gitlab、Netlify，国内的有 Coding、Gitee，这些都可以用来搭建个人博客。（Gitlab 就算了，在访问速度也够慢了）以 GitHub 为例，开启 GitHub Pages 后，你将会拥有一个 <code>&#123;username&#125;.github.io</code>  的域名，你也可以绑定自己的域名。若想知道如何拥有一个免费的顶级域名，请看我的下一篇文章。<strong>需要注意的是，国内访问 Gitee Pages 最快，但绑定自己的域名是要付费的。</strong> 因此，可以选择同时把博客部署在多个平台上来提高访问速度。</p>
+<h1 id="3使用免费空间"><a class="anchor" href="#3使用免费空间">#</a> 3. 使用免费空间</h1>
+<p>如今，越来越多的免费空间关闭了。现在我唯一能找到的只有挖站否站长 Qi 创立的其云否，提供免费空间供个人博主使用，有效期一年，到期后可以续费继续使用。为了避免滥用，其云否的免费空间需要用 30 积分兑换，其实签个几次到就能获得。其云否免费空间用的是美国 BGP 服务器，既然是免费的，速度稍微慢点也能接受。他们提供免费的二级域名，还有自动续签的 SSL 证书。如果你想拥有一个免费的顶级域名的话，我的下一篇文章会详细介绍。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何注册免费域名？</title>
+    <url>/how-to-register-a-free-domain/</url>
+    <content><![CDATA[<h2 id="如果想拥有一个顶级域名可以注册freenom的域名后缀有五种tk-ml-ga-cf-gq-很多人可能都以为此域名已经无法注册了其实还是可以的只是坑比较多这里就详细讲解一下-more-"><a class="anchor" href="#如果想拥有一个顶级域名可以注册freenom的域名后缀有五种tk-ml-ga-cf-gq-很多人可能都以为此域名已经无法注册了其实还是可以的只是坑比较多这里就详细讲解一下-more-">#</a> 如果想拥有一个顶级域名，可以注册 Freenom 的域名，后缀有五种， <code>.tk</code> 、 <code>.ml</code> 、 <code>.ga</code> 、 <code>.cf</code> 、 <code>.gq</code> 。很多人可能都以为此域名已经无法注册了，其实还是可以的，只是坑比较多，这里就详细讲解一下。<br />
+<a id="more"></a></h2>
+<p>先准备一个梯子，尽量用美国的，因为之前 Freenom 遭国人滥用，已屏蔽中国 IP，还会验证填写的地区与 IP 是否一致。<br />
+首先，开启全局代理，浏览器访问<span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20="> Freenom 官网</span>。<br />
+输入要注册的域名点 <code>检查可用性</code> ，<strong>注意⚠️搜索的时候一定要带上后缀，否则会点注册后会显示不可用。<strong>另外，域名前缀</strong>至少填写 4 位</strong>，否则要付费。默认选中注册 3 个月，请改为 12 个月（到期前可以免费续费）。<br />
+请使用谷歌邮箱或其他国外邮箱注册账号 <strong>（不能用 Outlook 邮箱）</strong>，点击 Freenom 发给你的链接验证。一定要填写美国人信息（没有的话百度搜索美国人信息生成）。<br />
+如果提示 <code>遇到技术问题</code> ，请修改个人信息再次尝试。注册完，进入 My Domains 查看已注册的域名。推荐把域名解析到 DNSPod 或 Cloudflare。<br />
+<strong>⚠️注意：切记不要滥用！！否则会封禁账号！！</strong></p>
+<hr />
+<p>另外，JS.ORG 为开发人员及其项目免费提供了子域名，可以作为博客的域名。比起 GitHub Pages 提供的 <code>.github.io</code>  二级域名， <code>.js.org</code>  更简短。Freenom 的免费域名是要续费的，相比，JS.ORG 的提供的子域名无需续费即可永久使用。<br />
+不过，想获得此域名也是有前提的：你的博客需要在 GitHub Pages 上，并且文章太少也不能申请。<br />
+如果想申请，请看这篇文章：<span class="exturl" data-url="aHR0cHM6Ly9zZWdtZW50ZmF1bHQuY29tL2EvMTE5MDAwMDAxMzAzODYyND91dG1fbWVkaXVtPXJlZmVycmFsJmFtcDt1dG1fc291cmNlPXR1aWNvb2w=">组织在召唤：如何免费获取一个 js.org 的二级域名</span>。（不是我写的）</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>域名</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在raspbian buster上部署LNMP环境和pi-dashboard</title>
+    <url>/install_lnmp_on_raspbian_buster/</url>
+    <content><![CDATA[<blockquote>
+<p>本文转自<span class="exturl" data-url="aHR0cHM6Ly9yYXNwaXNxaC5xdXdqLmNvbS8yMDIwLzAzLzIwL2luc3RhbGxfbG5tcF9vbl9yYXNwYmlhbl9idXN0ZXIuaHRtbA=="> RaspiSQH 的博客</span></p>
+</blockquote>
+<h1 id="前言"><a class="anchor" href="#前言">#</a> 前言</h1>
+<p>Raspbian Buster 用 PHP7.1 (2,3) 替代了 PHP7.0，有很多群友说找不到软件包了。因此我来介绍如何用在树莓派上部署新的 LNMP 环境 (PHP7.3)，并部署好 Pi Dashboard 的方法。下面假设你已经刷好了 Raspbian Buster 系统。最好是把 apt 软件源也换过了。<br />
+<a id="more"></a></p>
+<h1 id="安装-nginx-和-php7"><a class="anchor" href="#安装-nginx-和-php7">#</a> 安装 Nginx 和 PHP7</h1>
+<h2 id="安装软件包"><a class="anchor" href="#安装软件包">#</a> 安装软件包</h2>
+<p>在 Pi 的终端运行以下命令。</p>
+<figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">sudo</span> <span class="token function">apt-get</span> update</pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> nginx php7.3-fpm php7.3-cli php7.3-curl php7.3-gd php7.3-cgi</pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token function">sudo</span> <span class="token function">service</span> nginx start</pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token function">sudo</span> <span class="token function">service</span> php7.3-fpm restart</pre></td></tr></table></figure><p>如果安装成功，可通过  <code>http://树莓派IP/</code>  访问到 Nginx 的默认页。Nginx 的根目录在  <code>/var/www/html</code> 。</p>
+<h2 id="让-nginx-能处理-php"><a class="anchor" href="#让-nginx-能处理-php">#</a> 让 Nginx 能处理 PHP</h2>
+<p><code>sudo nano /etc/nginx/sites-available/default</code> <br />
+ 将其中的如下内容</p>
+<figure class="highlight nginx"><figcaption data-lang="nginx"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token directive"><span class="token keyword">location</span> /</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>                <span class="token comment"># First attempt to serve request as file, then</span></pre></td></tr><tr><td data-num="3"></td><td><pre>                <span class="token comment"># as directory, then fall back to displaying a 404.</span></pre></td></tr><tr><td data-num="4"></td><td><pre>                <span class="token directive"><span class="token keyword">try_files</span> <span class="token variable">$uri</span> <span class="token variable">$uri</span>/ =404</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>替换为</p>
+<figure class="highlight nginx"><figcaption data-lang="nginx"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token directive"><span class="token keyword">location</span> /</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token directive"><span class="token keyword">index</span>  index.html index.htm index.php default.html default.htm default.php</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="4"></td><td><pre> </pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token directive"><span class="token keyword">location</span> ~\.php$</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token directive"><span class="token keyword">fastcgi_pass</span> unix:/run/php/php7.3-fpm.sock</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token comment">#fastcgi_pass 127.0.0.1:9000;</span></pre></td></tr><tr><td data-num="8"></td><td><pre><span class="token directive"><span class="token keyword">fastcgi_param</span> SCRIPT_FILENAME <span class="token variable">$document_root</span><span class="token variable">$fastcgi_script_name</span></span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre><span class="token directive"><span class="token keyword">include</span> fastcgi_params</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>Ctrl + O 保存再 Ctrl + X 退出。<br />
+ <code>sudo service nginx restart</code> <br />
+ 最后重启 Nginx 即可，以上步骤在树莓派 3B + Raspbian Buster 系统版本上测试通过。4B 也可以用的，别瞎想了。不能用一定是因为你漏掉了什么，再仔细检查一下。</p>
+<h1 id="安装配置mysql"><a class="anchor" href="#安装配置mysql">#</a> 安装配置 MySQL</h1>
+<h2 id="安装软件包-2"><a class="anchor" href="#安装软件包-2">#</a> 安装软件包</h2>
+<p><code>sudo apt-get install mariadb-server-10.0 php3.7-mysql</code></p>
+<h2 id="更改密码"><a class="anchor" href="#更改密码">#</a> 更改密码</h2>
+<p>执行 <code>mysql</code></p>
+<figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre>MariaDB <span class="token punctuation">[</span><span class="token punctuation">(</span>none<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token operator">></span> use mysql<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>MariaDB <span class="token punctuation">[</span>mysql<span class="token punctuation">]</span><span class="token operator">></span> update user <span class="token builtin class-name">set</span> <span class="token assign-left variable">plugin</span><span class="token operator">=</span><span class="token string">'mysql_native_password'</span> where <span class="token assign-left variable">user</span><span class="token operator">=</span><span class="token string">'root'</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>MariaDB <span class="token punctuation">[</span>mysql<span class="token punctuation">]</span><span class="token operator">></span> UPDATE user SET <span class="token assign-left variable">password</span><span class="token operator">=</span>PASSWORD<span class="token punctuation">(</span><span class="token string">'你想要设定的密码'</span><span class="token punctuation">)</span> WHERE <span class="token assign-left variable">user</span><span class="token operator">=</span><span class="token string">'root'</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>MariaDB <span class="token punctuation">[</span>mysql<span class="token punctuation">]</span><span class="token operator">></span> flush privileges<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>MariaDB <span class="token punctuation">[</span>mysql<span class="token punctuation">]</span><span class="token operator">></span> <span class="token builtin class-name">exit</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>重启服务<br />
+ <code>service mysql restart</code> <br />
+mysql 配置就完成了。</p>
+<h1 id="pi-dashboard-介绍"><a class="anchor" href="#pi-dashboard-介绍">#</a> Pi Dashboard 介绍</h1>
+<p>请移步项目主页：<span class="exturl" data-url="aHR0cDovL21ha2UucXV3ai5jb20vcHJvamVjdC8xMA==">http://make.quwj.com/project/10</span></p>
+<h1 id="部署-pi-dashboard"><a class="anchor" href="#部署-pi-dashboard">#</a> 部署 Pi Dashboard</h1>
+<p>GitHub 部署</p>
+<figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token builtin class-name">cd</span> /var/www/html</pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token function">sudo</span> <span class="token function">git</span> clone https://github.com/spoonysonny/pi-dashboard.git</pre></td></tr></table></figure><p>即可通过  <code>http://树莓派IP/pi-dashboard</code>  访问部署好了的 Pi Dashboard。</p>
+<p>以上步骤在树莓派 3B + Raspbian Buster 系统版本上测试通过，每条都亲自验证过。</p>
+<p>本文评论请到<br />
+<span class="exturl" data-url="aHR0cHM6Ly90YWxrLnF1d2ouY29tL3RvcGljLzgxNg=="> https://talk.quwj.com/topic/816</span></p>
+]]></content>
+      <categories>
+        <category>树莓派</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+        <tag>教程</tag>
+        <tag>Linux</tag>
+        <tag>转载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AidLearning：一个运行在移动端的 Linux 虚拟机</title>
+    <url>/introduce-aidlearning/</url>
+    <content><![CDATA[<p><img data-src="https://ppmm.org/images/2020/07/08/a4d42a6d554b6a46941fc72436e57f92.png" alt="AidLearning" /><br />
+GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FpZGxlYXJuaW5nL0FpZExlYXJuaW5nLUZyYW1lV29yay8=">https://github.com/aidlearning/AidLearning-FrameWork/</span><br />
+ 中文 README：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FpZGxlYXJuaW5nL0FpZExlYXJuaW5nLUZyYW1lV29yay9ibG9iL21hc3Rlci9SRUFETUUtY24ubWQ=">https://github.com/aidlearning/AidLearning-FrameWork/blob/master/README-cn.md</span><br />
+ 比 Termux 更强大。AidLearning 比较注重 AI，支持 AI 开发环境、自带很多 AI 组件，可以实现跨平台开发、可视化开发，支持 VSCode 等开发工具。<br />
+在易用性、通用性、安全性方面也做得很好，自带图形界面也是一个亮点。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>Linux</tag>
+        <tag>Android</tag>
+        <tag>虚拟机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>树莓派操作系统大全（史上最全）</title>
+    <url>/operating-systems-for-raspberry-pi/</url>
+    <content><![CDATA[<blockquote>
+<p>转载自<span class="exturl" data-url="aHR0cHM6Ly93d3cubHh4MS5jb20vMzc3OQ==">科技爱好者博客</span>并添加了更多内容。</p>
+</blockquote>
+<blockquote>
+<p>树莓派的系统镜像非常多，绝大部分 <code>Linux</code>  发行版都发布了支持树莓派的操作系统，还有许多小众的系统。今天我再次归纳了树莓派的操作系统镜像，可以说是史上最全的树莓派操作系统镜像，总共有 <code>61</code>  个。<br />
+<a id="more"></a></p>
+</blockquote>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLmFscGluZWxpbnV4Lm9yZy93aWtpL1Jhc3BiZXJyeV9QaQ==">Alpine Linux</span> - 基于 musl libc 和 busybox 的面向安全的轻量级 Linux 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vdGhpbmdzL2hhcmR3YXJlL3Jhc3BiZXJyeXBpLmh0bWw=">Android Things</span> - 构建适用于各种消费，零售和工业应用的连接设备。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9hcmNobGludXhhcm0ub3JnLw==">Arch Linux ARM</span>- 轻巧灵活的 Linux 发行版，力求使其简单。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmFsZW5hLmlvL29zLw==">balenaOS</span>- 用于在嵌入式设备上运行 Docker 容器的开源 OS，其设计旨在提高可靠性并在生产中得到证明。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5iZXJyeXRlcm1pbmFsLmNvbS9kb2t1LnBocC9iZXJyeWJvb3Q=">BerryBoot</span> - Bootloader / 通用操作系统安装程序，支持 VNC 和 HDMI-CEC。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLmNlbnRvcy5vcmcvU3BlY2lhbEludGVyZXN0R3JvdXAvQWx0QXJjaC9Bcm0zMi9SYXNwYmVycnlQaTM=">CentOS</span> - 树莓派上的 CentOS。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2Z1dHVyaWNlL2NoaWxpcGllLWtpb3Nr">chilipie-kiosk</span>- 直接引导至全屏 Chrome 的镜像，非常适合仪表板和显示器。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0Z5ZGVPUy9jaHJvbWl1bV9vcy1yYXNwYmVycnlfcGk=">Chromium OS</span>- Chromium OS for Raspberry Pi</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRlZS5jb20vb3BlbmZhbnMtY29tbXVuaXR5L0RlYmlhbi1QaS1BYXJjaDY0">Debian-Pi-Aarch64</span>- 树莓派爱好者基地 64 位系统</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0ZvdXJkZWUvRGlldFBp">DietPi</span>- 设计成可容纳 2GB SD 卡的最小图像，具有大量可配置的设置和脚本。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3NlZXVsOGVyL0Ryb25lQnJpZGdl">DroneBridge</span> - WifiBroadcast 扩展，可替代 DJI Lightbridge 和其他类似系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2JvcnRlay9FWi1XaWZpQnJvYWRjYXN0L3dpa2k=">EZ-WifiBroadcast</span>- 轻松又廉价的无线数字高清视频传输。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tYXJpb2x1a2FzLmdpdGh1Yi5pby9GYWJTY2FuUGktU2VydmVyLw==">FabScanPi</span> - FabScanPi 是使用 Raspberry Pi 摄像头模块的开源 3D 激光扫描仪。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9mZWRvcmFwcm9qZWN0Lm9yZy93aWtpL1Jhc3BiZXJyeV9QaSNQcmVwYXJpbmdfdGhlX1NEX2NhcmQ=">Fedora</span>- 为树莓派构建的 Linux Fedora 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLmZyZWVic2Qub3JnL0ZyZWVCU0QvYXJtL1Jhc3BiZXJyeSUyMFBp">FreeBSD</span> - FreeBSD 是一种高级计算机操作系统，用于为现代服务器、台式机和嵌入式平台提供动力。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLmdlbnRvby5vcmcvd2lraS9SYXNwYmVycnlfUGk=">Gentoo</span> - 树莓派的 Gentoo Stage 3 压缩包。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9nbGFkeXNhc3Npc3RhbnQuY29tLw==">Gladys Assistant</span> - Gladys，隐私优先的开源家庭助理。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9ob21lLWFzc2lzdGFudC5pby9oYXNzaW8vaW5zdGFsbGF0aW9uLw==">Hass.io</span> - 嵌入式设备的家庭自动化操作系统 / 应用程序，也可以独立使用。</li>
+<li><span class="exturl" data-url="aHR0cDovL2Jsb2cuaHlwcmlvdC5jb20vYWJvdXQv">HypriotOS</span>- 最小的基于 Debian 的操作系统，经过优化可运行 Docker。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9pY2hpZ29qYW0uZ2l0aHViLmlvL1JQaS8=">IchigoJam RPi</span>- 将 Raspberry Pi 直接引导到 IchigoJam BASIC</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cub2ZmZW5zaXZlLXNlY3VyaXR5LmNvbS9rYWxpLWxpbnV4LWFybS1pbWFnZXMv">Kali Linux</span>- 用于 ARM 设备的渗透测试和道德黑客 Linux 发行版。</li>
+<li><span class="exturl" data-url="aHR0cDovL2RldmVsb3BlcnMua2Fuby5tZS9kb3dubG9hZHMv">Kano OS</span> - 用于探索，创建和玩耍的开源 OS，系统免费。</li>
+<li><span class="exturl" data-url="aHR0cDovL2xha2thLnR2Lw==">Lakka</span> - 树莓派复古游戏镜像，完全以 RetroArch 为基础开发。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9saWJyZWVsZWMudHYv">LibreELEC</span>- Kodi 的操作系统</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tYW5qYXJvLm9yZy9kb3dubG9hZC8=">Manjaro</span> - 树莓派的友好、开源 Linux 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9taW5pYmlhbnBpLndvcmRwcmVzcy5jb20v">Minibian</span>- 最小的 Raspbian 镜像（比 Jessie Lite 还小）。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tb29kbGVib3gubmV0Lw==">MoodleBox</span> - MoodleBox 在树莓派上提供了 Moodle 学习管理系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2NjcmlzYW4vbW90aW9uZXllb3Mvd2lraQ==">motionEyeOS</span> - Linux 发行版，可将单板计算机转变为视频监视系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9pb3QubW96aWxsYS5vcmcvZ2F0ZXdheS8=">Mozilla WebThings</span>- 建立自己的智能家居系统</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLm5ldGJzZC5vcmcvcG9ydHMvZXZiYXJtL3Jhc3BiZXJyeV9waS8=">NetBSD</span> - NetBSD 是一个免费、快速、安全且高度可移植的类 Unix 开源操作系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vd255b3VyYml0cy5jb20vMjAxNy8wMi8xMy9uZXh0Y2xvdWQtcmVhZHktcmFzcGJlcnJ5LXBpLWltYWdlLw==">NextCloudPi</span> - 基于 Raspbian 的 Nextcloud 镜像。具有在 Raspbian 8 上运行的 Nextcloud 11，具有启用 PHP 7 和 HTTP2 的 Apache 服务器。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3JnL2Rvd25sb2Fkcy9ub29icy8=">NOOBS</span> - 全新的开箱即用软件，为初学者提供了一个简单的 OS 安装程序。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vY3RvcGkub2N0b3ByaW50Lm9yZy8=">OctoPi</span> - 用于 3d 打印机的发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jbG91ZGZsYXJlLmNkbi5vcGVuYnNkLm9yZy9wdWIvT3BlbkJTRC8=">OpenBSD</span>- 免费的类 Unix 操作系统</li>
+<li><span class="exturl" data-url="aHR0cDovL29wZW5lbGVjLnR2Lw==">OpenELEC</span>- 开放式嵌入式 Linux 娱乐中心，一种非常轻便的 Kodi 版本。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm9wZW5oYWIub3JnL2luc3RhbGxhdGlvbi9vcGVuaGFiaWFuLmh0bWw=">OpenHABian</span> - OpenHAB 家庭自动化软件的预配置版本。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cub3Blbm1lZGlhdmF1bHQub3JnLw==">OpenMediaVault</span> -OpenMediaVault 是基于 Debian Linux 的下一代网络连接存储（NAS）解决方案，其中包含 SSH，（S）FTP，SMB / CIFS，DAAP 媒体服务器，RSync，BitTorrent 客户端等服务。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zb2Z0d2FyZS5vcGVuc3VzZS5vcmcvZGlzdHJpYnV0aW9ucy8=">openSUSE</span>- 一个开源的 Linux 发行版</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93aWtpLm9wZW53cnQub3JnL3RvaC9yYXNwYmVycnlfcGlfZm91bmRhdGlvbi9yYXNwYmVycnlfcGk=">OpenWrt</span> -OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vc21jLnR2Lw==">OSMC</span>- 基于 Kodi 的开源媒体中心。</li>
+<li><span class="exturl" data-url="aHR0cDovL3BpZGVjay5jb20v">PiDeck</span>- 小型 DVS 系统，可让您使用黑胶唱片控制数字音乐文件。</li>
+<li><span class="exturl" data-url="aHR0cDovL3BpbmV0Lm9yZy51ay8=">PiNet</span>- 一个用于设置和管理教室里树莓派的集中式用户帐户和文件存储系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9waXJhdGVib3guY2MvZG9rdS5waHA/aWQ9cmFzcGJlcnJ5X3BpOmRpeQ==">PirateBox</span>- 匿名脱机移动文件共享和通信系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3JnL2Rvd25sb2Fkcy8=">RaspiOS（原 Raspbian）</span>- 官方支持的树莓派镜像，基于 Debian 并提供精简版。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5yYXNwbGV4LmNvbS8=">RasPlex</span> - 树莓派的 Plex 客户端。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cucmVjYWxib3guY29tLw==">Recalbox</span>- 在树莓派上拖放轻型复古游戏和媒体中心。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9yZXRyb3BpZS5vcmcudWsv">RetroPie</span>- 在树莓派上进行复古游戏。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cucmlzY29zb3Blbi5vcmcvY29udGVudC9kb3dubG9hZHMvcmFzcGJlcnJ5LXBp">RISC OS</span>- 用于 ARM 设备的快速，轻松定制的操作系统。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9yb2NrZXRzaG93Lm5ldC8=">Rocket Show</span> - 在舞台上实时播放同步的背景音乐，视频和 DMX 序列。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5ydW5lYXVkaW8uY29tLw==">RuneAudio</span>- 免费和开源的 OS，可将嵌入式硬件转变为 Hi-Fi 音乐播放器。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5zYW1wbGVyYm94Lm9yZy9tYWtlaXRzb2Z0d2FyZQ==">SamplerBox</span>- 即插即用采样器：将.WAV 样本拖放到 SD 卡上，然后播放！</li>
+<li><span class="exturl" data-url="aHR0cDovL3NhcnBpLmZhdGRvZy5ubC9pbmRleC5waHA/cD1zYXJwaQ==">SARPi</span>- 代表树莓派上的 Slackware ARM。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudHJ1ZW9zLm9yZy9oYW5kYm9vay9waWNvLmh0bWw=">TrueOS</span>- 基于 FreeBSD 的瘦客户端解决方案。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly91YnVudHUuY29tL2Rvd25sb2FkL3Jhc3BiZXJyeS1waS1jb3Jl">Ubuntu Core</span> - IoT 的官方（最小）Ubuntu 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly91YnVudHUtbWF0ZS5vcmcvZG93bmxvYWQv">Ubuntu MATE</span>- 基于 MATE 桌面的树莓派版 Ubuntu 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly91YnVudHUuY29tL2Rvd25sb2FkL3Jhc3BiZXJyeS1waQ==">Ubuntu Server</span> - 树莓派的 Ubuntu 服务器发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly92b2x1bWlvLm9yZy8=">Volumio</span>- 无头发烧级音乐播放器，旨在以最高保真度播放音乐。</li>
+<li><span class="exturl" data-url="aHR0cDovL2Rvd25sb2Fkcy5yYXNwYmVycnlwaS5vcmcvd2VhdGhlcl9zdGF0aW9uL2ltYWdlcy93ZWF0aGVyX3N0YXRpb24tMjAxOC0wMS0xNC8=">Weather Station</span>- Raspberry Pi Oracle Weather Station 的 Raspbian 镜像</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cud29ycHJvamVjdC5tbC9kb3dubG9hZHM=">Windows 10 ARM</span>- 完整的 Windows 10 ARM64 桌面版</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtQ04vd2luZG93cy9pb3QtY29yZS9kb3dubG9hZHM=">Windows 10 IoT 核心版</span> - IoT 的 Windows 10 发行版。</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMveGJpYW4v">XBian</span>- 个小型，快速，轻巧的媒体中心 Linux 发行版</li>
+</ul>
+]]></content>
+      <categories>
+        <category>树莓派</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>树莓派</tag>
+        <tag>操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>注册Freenom免费顶级域名</title>
+    <url>/register-freenom-tlds-for-free/</url>
+    <content><![CDATA[<blockquote>
+<p>以前我在博客里介绍过免费注册顶级域名的方法，因为当时注意事项没有普遍性或已经过时、总结不到位，决定再写一篇，总结经验和教训。<br />
+<a id="more"></a><br />
+<strong> 无图警告⚠️</strong><br />
+目前可在 Freenom 网站上免费注册后缀为 tk、ml、cf、ga、gq 的域名，最多可注册 12 个月，到期前一周内可免费续期。<br />
+<strong>⚠️注册时坑比较多，一定要有耐心</strong><br />
+注册地址：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom 官网</span><br />
+<strong>⚠️注意事项（一定要看！否则大概率注册失败！）</strong><br />
+1. 一定要挂梯注册（开全局代理），因为 Freenom 屏蔽中国大陆 IP<br />
+2. 注册时一定要填写带后缀的域名，否则会提示『不可用』。<br />
+如填写『<span class="exturl" data-url="aHR0cDovL3F1d2oubWw=">quwj.ml</span>』而不是『quwj』<br />
+3. 填写的域名至少 4 位，否则会收费。<br />
+4. 请勿使用国内的 163 邮箱、QQ 邮箱注册账号，推荐使用谷歌邮箱等国外邮箱。<br />
+5. 注册账号时，填写的国家 / 地区、邮编等信息一定要与注册用的 IP 所在地一致，否则极有可能注册失败<br />
+比如，如果使用香港节点，请选择地区为香港，邮编、手机号、地址等其他信息也尽量填写香港人信息。<br />
+6. 每个账号只能注册一次域名，第二次申请大概率失败，一次可申请多个，如无法申请请更换邮箱再注册。<br />
+7.Freenom 的免费域名没有 Whois 信息</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>域名</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>树莓派更换软件源一键脚本</title>
+    <url>/rpi-mirror-change/</url>
+    <content><![CDATA[<h1 id="介绍"><a class="anchor" href="#介绍">#</a> 介绍</h1>
+<p>由于更换软件源要手动修改文件，比较麻烦，网上也没有找到真正一键更换软件源的脚本，于是自己写了一个，可同时更换 apt、pip、docker、npm 源为国内源，适用于 RaspiOS Buster。（原 <code>Raspbian</code> ）。<br />
+<a id="more"></a><br />
+ 其中 <code>apt</code> 、 <code>pip</code>  换成清华源， <code>docker</code>  换成中国区官方源， <code>npm</code>  换成淘宝源。有特殊需求的可以自行修改脚本。<br />
+GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2htc2p5MjAxNy9ycGktbWlycm9yLWNoYW5nZQ==">https://github.com/hmsjy2017/rpi-mirror-change</span></p>
+<h1 id="使用"><a class="anchor" href="#使用">#</a> 使用</h1>
+<ol>
+<li>先使用 <code>wget https://raw.githubusercontent.com/hmsjy2017/rpi-mirror-change/master/change-mirror.sh</code>  下载脚本，如果提示 <code>403</code> ，说明域名被墙，请执行 <code>wget https://gitee.com/iamsjy/rpi-mirror-change/raw/master/change-mirror.sh</code> 。</li>
+<li>然后输入 <code>sudo chmod +x change-mirror.sh</code>  赋予脚本执行权限，否则会因为权限不足而无法运行。</li>
+<li>输入 <code>sudo sh change-mirror.sh</code>  运行脚本。</li>
+</ol>
+<p>合起来就是 <code>wget https://gitee.com/iamsjy/rpi-mirror-change/raw/master/change-mirror.sh &amp;&amp; sudo chmod +x change-mirror.sh &amp;&amp; sudo sh change-mirror.sh</code></p>
+]]></content>
+      <categories>
+        <category>树莓派</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+        <tag>脚本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Ventoy – 开源 U 盘启动盘制作工具，支持启动多个系统，还能当普通 U 盘保存文件[Win/Linux]</title>
+    <url>/ventoy/</url>
+    <content><![CDATA[<p>来自：<span class="exturl" data-url="aHR0cHM6Ly93d3cuYXBwaW5uLmNvbS92ZW50b3kv">小众软件</span></p>
+<p>Ventoy 是一款开源的，用来制作可启动 U 盘的 Windows、Linux 工具，使用简单，只需要将多个系统镜像 ISO 文件拷贝至 U 盘，即可自动创建包含多个系统的启动菜单，来安装操作系统。并且该启动 U 盘还能当普通 U 盘使用。@Appinn<br />
+<a id="more"></a><br />
+<img data-src="https://ppmm.org/images/2020/07/28/4664ce05e1dff6d7687786f0a739f161.jpg" alt="1" /><br />
+ 感谢 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9jcnlvdXMvc3RhdHVzLzEyNTM4NjgzODgwNjcxMTUwMDg=">@懒洋洋的就趴在那里一动不动动不动动动</span> 的推荐。</p>
+<p>都说一块 U 盘制作一个系统启动盘，Ventoy 最方便的地方就是你可以用它制作一块既能启动 Windows，也能启动 Linux 的启动盘，而且使用非常简单。</p>
+<p>目前已测试过支持包括主流 Windows、服务器版 Windows、Debian、Ubuntu、CentOS、RHEL、Deepin，VMware ESXi 等系统 202 个，你要做的，只是下载系统镜像文件，然后直接拷贝进去就好了。Ventoy 会帮助你自动创建启动菜单。</p>
+<h1 id="下载-ventoy"><a class="anchor" href="#下载-ventoy">#</a> 下载 Ventoy</h1>
+<p>首先，需要下载 Ventoy，有 Windows 与 Linux 两个版本，下载地址位于 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3ZlbnRveS9WZW50b3kvcmVsZWFzZXM=">GitHub</span>，有能力的前往下载，青小蛙提供两个国内转运下载地址：<br />
+&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;<span class="exturl" data-url="aHR0cHM6Ly9kLmFwcGlubi5jb20vdmVudG95Lw==">https://d.appinn.com/ventoy/</span>&quot; target=&quot;view_window&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9wcG1tLm9yZy9pbWFnZXMvMjAyMC8wNy8yOC9hYWQwODZkZTlhNzQxNGE0YzI0ZWZhZmViMzRmZTg2OC5wbmc=">https://ppmm.org/images/2020/07/28/aad086de9a7414a4c24efafeb34fe868.png</span>&quot;alt=&quot;Ventoy - 开源 U 盘启动盘制作工具，支持启动多个系统，还能当普通 U 盘保存文件 [Win/Linux] 2&quot;title=&quot;Ventoy - 开源 U 盘启动盘制作工具，支持启动多个系统，还能当普通 U 盘保存文件 [Win/Linux] 2&quot;class=&quot;lazyloaded&quot;data-ll-status=&quot;loaded&quot;&gt;&lt;noscript&gt;&lt;/a&gt;&lt;/div&gt;</p>
+<h1 id="制作启动-u-盘"><a class="anchor" href="#制作启动-u-盘">#</a> 制作启动 U 盘</h1>
+<p>插入 U 盘之后，Ventoy 会自动识别，只需要点击 Install 即可，会两次提醒格式化将会删除 U 盘数据。</p>
+<p>如果 Ventoy 有更新，点击 Update 更新即可。</p>
+<p><img data-src="https://ppmm.org/images/2020/07/28/80827d8736fd141d9083872988813a84.jpg" alt="2" /></p>
+<p>Linux 安装方式请参考<span class="exturl" data-url="aHR0cHM6Ly93d3cudmVudG95Lm5ldC9jbi9kb2Nfc3RhcnQuaHRtbA==">官方文档</span>。</p>
+<p><strong>启动盘依旧是普通 U 盘</strong></p>
+<p>Ventoy 最酷的地方，是成为启动 U 盘之后，还可以当普通 U 盘使用，保存普通文件，不影响 Ventoy 功能。</p>
+<h1 id="复制系统-iso-镜像文件"><a class="anchor" href="#复制系统-iso-镜像文件">#</a> 复制系统 ISO 镜像文件</h1>
+<p>制作好的启动 U 盘，表面上看起来还是一块普通 U 盘，文件管理器里什么文件都没有：</p>
+<p><img data-src="https://ppmm.org/images/2020/07/28/4d0743c78364f3fc87960ac5af392a51.jpg" alt="3" /></p>
+<p>实际上，是因为 Ventoy 将 U 盘分为了两个分区：</p>
+<p><img data-src="https://ppmm.org/images/2020/07/28/e609329ac97ba1407f8015af9f76fc72.jpg" alt="4" /></p>
+<p>EFI 分区被隐藏，无需理会。</p>
+<p>只需要将 ISO 文件拷贝到 U 盘里即可，比如青小蛙就直接将 Ubuntu 和 Windows XP 两个 ISO 系统镜像文件拷贝到了 Ventoy (E:) 盘下：</p>
+<p><img data-src="https://ppmm.org/images/2020/07/28/f2556384f82ab8850bed8002ccffd44d.jpg" alt="5" /></p>
+<p>Ventoy 会自动扫码 U 盘里的所有 ISO 文件，包括子文件夹，但不支持中文文件夹名称。</p>
+<h1 id="多系统启动"><a class="anchor" href="#多系统启动">#</a> 多系统启动</h1>
+<p>复制好系统镜像之后，直接拿去启动即可。</p>
+<p><img data-src="https://ppmm.org/images/2020/07/28/acf2c8e3ba6451b75dd45925910fc9dd.jpg" alt="6" /><br />
+ 青小蛙在虚拟机 <span class="exturl" data-url="aHR0cHM6Ly9wYXJ0bmVyLmxpemhpLmlvL2FwcGlubi9wYXJhbGxlbHNfZGVza3RvcA==">PD</span> 中测试成功，已经识别了两个 ISO 文件。选一个，就可以进入正常的系统安装流程了。</p>
+<h1 id="ventoy-特点列表"><a class="anchor" href="#ventoy-特点列表">#</a> Ventoy 特点列表：</h1>
+<ul>
+<li>开源、易用</li>
+<li>快速 （拷贝文件有多快就有多快）</li>
+<li>直接从 ISO 文件启动，无需解开</li>
+<li>无差异支持 Legacy + UEFI 模式</li>
+<li>UEFI 模式支持安全启动 （Secure Boot）</li>
+<li>支持超过 4GB 的 ISO 文件</li>
+<li>保留 ISO 原始的启动菜单风格（Legacy &amp; UEFI）</li>
+<li>支持大部分常见操作系统，已测试 200+ 个 ISO 文件</li>
+<li>不仅仅是启动，而是完整的安装过程</li>
+<li>提出 “Ventoy Compatible” 概念</li>
+<li>支持插件扩展</li>
+<li>启动过程中支持 U 盘设置写保护</li>
+<li>不影响 U 盘日常普通使用</li>
+<li>版本升级时数据不会丢失</li>
+<li>无需跟随操作系统升级而升级 Ventoy</li>
+</ul>
+<h1 id="最后"><a class="anchor" href="#最后">#</a> 最后</h1>
+<p>至此，一个系统启动 U 盘、一个普通 U 盘合二为一的 Ventoy 启动盘已经制作完成，想要添加新的系统只需要更新 U 盘里的 ISO 系统镜像文件即可，也不影响当作普通 U 盘保存文件使用，非常方便。</p>
+<p>青小蛙要给一个<span class="exturl" data-url="aHR0cHM6Ly93d3cuYXBwaW5uLmNvbS9jYXRlZ29yeS9mZWF0dXJlZC8=">精选</span>，Ventoy <span class="exturl" data-url="aHR0cHM6Ly93d3cudmVudG95Lm5ldC9jbi9pbmRleC5odG1sP3JlZj1hcHBpbm4=">官网在这里</span>。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>Github</tag>
+        <tag>精选</tag>
+        <tag>开源</tag>
+        <tag>系统工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>重磅教程！帮你全面彻底搞定Material design的学习笔记</title>
+    <url>/material-design/</url>
+    <content><![CDATA[<p>&lt;!-- wp:quote --&gt;<br />
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p &gt; 本文转载于优设网 &lt;/p&gt;&lt;cite &gt; 原文地址：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWlzZGMuY29tL2NvbXByZWhlbnNpdmUtbWF0ZXJpYWwtZGVzaWduLW5vdGU=">https://www.uisdc.com/comprehensive-material-design-note</span>&lt;/cite&gt;&lt;/blockquote&gt;<br />
+&lt;!-- /wp:quote --&gt;</p>
+<p>&lt;!-- wp:image {&quot;id&quot;:120268} --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvY29tcHJlaGVuc2l2ZS1tYXRlcmlhbC1kZXNpZ24tbm90ZS0xLmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/comprehensive-material-design-note-1.jpg</span>&quot; alt=&quot;comprehensive-material-design-note-1&quot; class=&quot;wp-image-120268&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 编者按：这一年就快完了，你还没搞懂 Material design 吗？是嫌文档太长，还是觉得自己英文不好？都没关系，我们善良热情的 &lt; a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL3dlaWJvLmNvbS9ncmVlbnpvcnJv">http://weibo.com/greenzorro</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;@十萬個為什麽 &lt;/a&gt;  帮同学们通读了一遍官方的设计指南，去糙取精，整理出这篇干货超多的学习笔记，打包票学完基本就掌握 90% 了，别错过咯！&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;<br />
+<a id="more"></a><br />
+&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 自从 Material design 发布以来，可乐橙就在一直收集相关素材与资源，研究别人的作品。这套设计风格非常鲜明，带有浓郁的 Google 式严谨和理性哲学，深得我心。实际上，光是研究素材和别人作品，就能发现一些明显的规律，做出几分相似的设计。这样半吊子的状态一直保持到现在，最近有时间通读一遍官方的设计指南，终于有了深入的理解。在朋友的项目（&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL2x5ZGlhYm94LmNvbS8=">http://lydiabox.com/</span>&quot; rel=&quot;noreferrer noopener&quot;&gt;<span class="exturl" data-url="aHR0cDovL2x5ZGlhYm94LmNvbQ==">http://lydiabox.com</span>&lt;/a&gt;）中实践了一番，虽然很抱歉拿朋友开刀，不过他对整体效果似乎还算满意。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xLnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-1.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 的设计规范细致入微，需要消化好一阵子。越读越感受到它的妙处，假如每个细节都严格遵照 Material design 的思想来设计，哪怕你不是设计人员，你的产品也一定不会难用和难看。当然，作为设计师，要求就更高了。设计文档本身，就提供了一种很好的方式，帮你从各个角度思考和构建自己产品的规范。但在这之前，先要好好整理一下学习笔记。要打破规矩，必先掌握规矩。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 由于只是笔记，我会写得尽量简单。并且省略掉一些可乐橙认为设计师都已经掌握的信息。想要深入了解 Material design，还是建议有空通读一遍官方文档。不过，牢记以下要点，基本能做到 90% 了。实际上，Google 官方的应用也有不遵照规范的地方，不能太拘泥于条条框框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_0&quot;&gt;&lt;strong &gt; 一、核心思想 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 的核心思想，就是把物理世界的体验带进屏幕。去掉现实中的杂质和随机性，保留其最原始纯净的形态、空间关系、变化与过渡，配合虚拟世界的灵活特性，还原最贴近真实的体验，达到简洁与直观的效果。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yLnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-2.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 是最重视跨平台体验的一套设计语言。由于规范严格细致，保证它在各个平台使用体验高度一致。不过目前还只有 Google 自家的服务这么做，毕竟其他平台有自己的规范与风格。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_1&quot;&gt;&lt;strong &gt; 二、材质与空间 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 材质 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xLmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-1.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 中，最重要的信息载体就是魔法纸片。纸片层叠、合并、分离，拥有现实中的厚度、惯性和反馈，同时拥有液体的一些特性，能够自由伸展变形。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 这些是纸片的魔法特性，真实纸片所不具备的能力：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 纸片可以伸缩、改变形状 &lt;/li&gt;&lt;li &gt; 纸片变形时可以裁剪内容，比如纸片缩小时，内容大小不变，而是隐藏超出部分 &lt;/li&gt;&lt;li &gt; 多张纸片可以拼接成一张 &lt;/li&gt;&lt;li &gt; 一张纸片可以分裂成多张 &lt;/li&gt;&lt;li &gt; 纸片可以在任何位置凭空出现 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 不过，魔法纸片有些效果是禁止的：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 一项操作不能同时触发两张纸片的反馈 &lt;/li&gt;&lt;li &gt; 层叠的纸片，海报高度不能相同 &lt;/li&gt;&lt;li &gt; 纸片不能互相穿透 &lt;/li&gt;&lt;li &gt; 纸片不能弯折 &lt;/li&gt;&lt;li &gt; 纸片不能产生透视，必须平行于屏幕 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 空间 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zLnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-3.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 引入了 z 轴的概念，z 轴垂直于屏幕，用来表现元素的层叠关系。z 值（海拔高度）越高，元素离界面底层（水平面）越远，投影越重。这里有一个前提，所有的元素的厚度都是 1dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 所有元素都有默认的海拔高度，对它进行操作会抬升它的海拔高度，操作结束后，它应该落回默认海拔高度。同一种元素，同样的操作，抬升的高度是一致的。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 注意：这不止是设计中的概念，开发人员确实可以通过一个值来控制元素的海拔高度和投影。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_4&quot;&gt;&lt;strong &gt; 三、动画 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Material design 重视动画效果，它反复强调一点：动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;easing&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0yLmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-2.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 动画要贴近真实世界，就要重视 easing。物理世界中的运动和变化都是有加速和减速过程的，忽然开始、忽然停止的匀速动画显得机械而不真实。考虑动画的 easing，要先考虑它在现实世界中的运动规律。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 水波反馈 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0zLmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-3.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi00LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-4.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi01LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-5.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 所有可点击的元素，都应该有这样的反馈效果。通过这个动画，将点击的位置与所操作的元素关联起来，体现了 Material design 动画的功能性。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 转场效果 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi02LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-6.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通过过渡动画，表达界面之间的空间与层级关系，并且跨界面传递信息。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi03LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-7.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 从父界面进入子界面，需要抬升子元素的海拔高度，并展开至整个屏幕，反之亦然。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi04LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-8.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 多个相似元素，动画的设计要有先后次序，起到引导视线的作用。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi05LmdpZg==">https://image.uisdc.com/wp-content/uploads/2014/12/b-9.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 相似元素的运动，要符合统一的规律。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 细节动画 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xMC5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-10.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通过图标的变化和一些细节来达到令人愉悦的效果。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_9&quot;&gt;&lt;strong &gt; 四、颜色 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-4.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-5.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 颜色不宜过多。选取一种主色、一种辅助色（非必需），在此基础上进行明度、饱和度变化，构成配色方案。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-6.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-7.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Appbar 背景使用主色，状态栏背景使用深一级的主色或 20% 透明度的纯黑。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-8.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05LnBuZw==">https://image.uisdc.com/wp-content/uploads/2014/12/a-9.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 小面积需要高亮显示的地方使用辅助色。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 其余颜色通过纯黑 #000000 与纯白 #ffffff 的透明度变化来展现（包括图标和分隔线），而且透明度限定了几个值。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-10.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-11.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 黑色：[87% 普通文字] [54% 减淡文字] [26% 禁用状态 / 提示文字] [12% 分隔线]&lt;br &gt; 白色：[100% 普通文字] [70% 减淡文字] [30% 禁用状态 / 提示文字] [12% 分隔线]&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 延伸阅读：&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vMy13ZWJzaXRlcy1kZXNpZ24tb25saW5l">http://www.uisdc.com/3-websites-design-online</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《超方便！Material Design 专用在线配色工具》&lt;/a&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_10&quot;&gt;&lt;strong &gt; 五、图标 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 桌面图标 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 桌面图标尺寸是 48dp X 48dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image {&quot;id&quot;:120190} --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvUVEyMDE0MTIyODE2NTAwOC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/QQ20141228165008.png</span>&quot; alt=&quot;QQ20141228165008&quot; class=&quot;wp-image-120190&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 桌面图标建议模仿现实中的折纸效果，通过扁平色彩表现空间和光影。注意避免以下问题：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 不要给彩色元素加投影 &lt;/li&gt;&lt;li &gt; 层叠不要超过两层 &lt;/li&gt;&lt;li &gt; 折角不要放在左上角 &lt;/li&gt;&lt;li &gt; 带投影的元素要完整展现，不能被图标边缘裁剪 &lt;/li&gt;&lt;li &gt; 如果有折痕，放在图片中央，并且最多只有一条 &lt;/li&gt;&lt;li &gt; 带折叠效果的图标，表面不要有图案 &lt;/li&gt;&lt;li &gt; 不能透视、弯曲 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:image {&quot;id&quot;:120191} --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvUVEyMDE0MTIyODE2NTEzMS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/QQ20141228165131.png</span>&quot; alt=&quot;QQ20141228165131&quot; class=&quot;wp-image-120191&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 常规形状可以遵循几套固定栅格设计。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 小图标 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xOC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-18.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 优先使用 material design 默认图标。设计小图标时，使用最简练的图形来表达，图形不要带空间感。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image {&quot;id&quot;:120267} --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvaWNvbi1mcmFtZXdvcmsucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/icon-framework.png</span>&quot; alt=&quot;icon framework&quot; class=&quot;wp-image-120267&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 小图标尺寸是 24dp X 24dp。图形限制在中央 20dp X 20dp 区域内。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image {&quot;id&quot;:120065} --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yMS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-21.png</span>&quot; alt=&quot;a-21&quot; class=&quot;wp-image-120065&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 小图标同样有栅格系统。线条、空隙尽量保持 2dp 宽，圆角半径 2dp。特殊情况相应调整。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yMi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-22.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yMy5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-23.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 小图标的颜色使用纯黑与纯白，通过透明度调整：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 黑色：[54% 正常状态] [26% 禁用状态]&lt;br &gt; 白色：[100% 正常状态] [30% 禁用状态]&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_13&quot;&gt;&lt;strong &gt; 六、图片 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 选用图片 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yNC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-24.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yNS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-25.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 描述具体事物，优先使用照片。然后可以考虑使用插画。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 图片上的文字 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yNi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-26.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 图片上的文字，需要淡淡的遮罩确保其可读性。深色的遮罩透明度在 20%-40% 之间，浅色的遮罩透明度在 40%-60% 之间。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yNy5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-27.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对于带有文字的大幅图片，遮罩文字区域，不要遮住整张图片。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yOC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-28.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 可以使用半透明的主色盖住图片。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 提取颜色 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0yOS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-29.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Android L 可以从图片中提取主色，运用在其他 UI 元素上。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 图片加载过程 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zMC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-30.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 图片的加载过程非常讲究，透明度、曝光度、饱和度 3 个指标依次变化，效果相当细腻。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xMS5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-11.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_18&quot;&gt;&lt;strong &gt; 七、文字 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 字体 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 英文字体使用 Roboto，中文字体使用 Noto。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zMS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-31.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Roboto 有 6 种字重：Thin、Light、Regular、Medium、Bold 和 Black。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zMi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-32.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Noto 有 7 种字重：Thin, Light、DemiLight、Regular、Medium、Bold 和 Black。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 文字排版 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 常用字号：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li&gt;12sp 小字提示 &lt;/li&gt;&lt;li&gt;14sp（桌面端 13sp） 正文 / 按钮文字 &lt;/li&gt;&lt;li&gt;16sp（桌面端 15sp） 小标题 &lt;/li&gt;&lt;li&gt;20sp Appbar 文字 &lt;/li&gt;&lt;li&gt;24sp 大标题 &lt;/li&gt;&lt;li&gt;34sp/45sp/56sp/112sp 超大号文字 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 长篇幅正文，每行建议 60 字符（英文）左右。短文本，建议每行 30 字符（英文）左右。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_21&quot;&gt;&lt;strong &gt; 八、布局 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 所有可操作元素最小点击区域尺寸：48dp X 48dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 栅格系统的最小单位是 8dp，一切距离、尺寸都应该是 8dp 的整数倍。以下是一些常见的尺寸与距离：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 顶部状态栏高度：24dp&lt;/li&gt;&lt;li&gt;Appbar 最小高度：56dp&lt;/li&gt;&lt;li &gt; 底部导航栏高度：48dp&lt;/li&gt;&lt;li &gt; 悬浮按钮尺寸：56x56dp/40x40dp&lt;/li&gt;&lt;li &gt; 用户头像尺寸：64x64dp/40x40dp&lt;/li&gt;&lt;li &gt; 小图标点击区域：48x48dp&lt;/li&gt;&lt;li &gt; 侧边抽屉到屏幕右边的距离：56dp&lt;/li&gt;&lt;li &gt; 卡片间距：8dp&lt;/li&gt;&lt;li &gt; 分隔线上下留白：8dp&lt;/li&gt;&lt;li &gt; 大多元素的留白距离：16dp&lt;/li&gt;&lt;li &gt; 屏幕左右对齐基线：16dp&lt;/li&gt;&lt;li &gt; 文字左侧对齐基线：72dp&lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zMy5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-33.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 另外注意 56dp 这个数字，许多尺寸可变的控件，比如对话框、菜单等，宽度都可以按 56 的整数倍来设计。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 还有非常多规范，不详细列举，遵循 8dp 栅格很容易找到适合的尺寸与距离。平板与 PC 上留白更多，距离与尺寸要相应增大。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_22&quot;&gt;&lt;strong &gt; 九、组件 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Bottom sheets&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zNC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-34.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zNS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-35.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通常以列表形式出现，支持上下滚动。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zNi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-36.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zNy5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-37.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zOC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-38.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 也可以是网格式的。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0zOS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-39.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Buttons&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-40.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-41.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-42.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 按钮分为悬浮按钮、凸起按钮和扁平按钮 3 种。重要性如下递减：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-43.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 最重要且随处用到的操作，建议使用悬浮按钮。信息较多时，选用凸起按钮可以有效突出重要操作，但注意纸片不要叠太多层。扁平按钮适合用在简单的界面，例如对话框中。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 使用悬浮按钮要遵循以下规则：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 建议只用一个悬浮按钮 &lt;/li&gt;&lt;li &gt; 悬浮按钮可以贴在纸片边缘或者接缝处，但不要贴在对话框、侧边抽屉和菜单的边缘 &lt;/li&gt;&lt;li &gt; 悬浮按钮不能被其他元素盖住，也不能挡住其他按钮 &lt;/li&gt;&lt;li &gt; 列表滚动至底部时，悬浮按钮应该隐藏，防止它挡住列表项 &lt;/li&gt;&lt;li &gt; 悬浮按钮的位置不能随意摆放，可以贴着左右两边的对齐基线 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-44.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 悬浮按钮通常触发正向的操作，添加、创建、收藏之类。不能触发负面、破坏性或不重要的操作，也不应该有数字角标。下图就是悬浮按钮的错误使用：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-45.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 悬浮按钮有两种尺寸：56x56dp/40x40dp&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Cards&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-46.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-47.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 即使在同一个列表中，卡片的内容和布局方式也可以不一样。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-48.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 卡片统一带有 2dp 的圆角。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 在以下情况考虑使用卡片：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 同时展现多种不同内容 &lt;/li&gt;&lt;li &gt; 卡片内容之间不需要进行比较 &lt;/li&gt;&lt;li &gt; 包含了长度不确定的内容，比如评论 &lt;/li&gt;&lt;li &gt; 包含丰富的内容与操作项，比如赞、滚动条、评论 &lt;/li&gt;&lt;li &gt; 本该是列表，但文字超过 3 行 &lt;/li&gt;&lt;li &gt; 本该是网格，但需要展现更多文字 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS00OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-49.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 卡片最多有两块操作区域。辅助操作区至多包含两个操作项，更多操作需要使用下拉菜单。其余部分都是主操作区。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Chips&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-50.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-51.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 狭小空间内表现复杂信息的一个组件，比如日期、联系人选择器。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Dialogs&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-52.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对话框包含标题、内容和操作项。点击对话框外的区域，不会关闭对话框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-53.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通常情况，避免出现滚动条。空间不足时允许滚动，滚动条建议默认显示。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-54.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对话框中，取消类操作项放在左边，引起变化的操作项放在右边。要写明操作项的具体效果，不要只写 “是” 和 “否”。标题文字要明确，即使不读正文内容也能知道在干什么，标题不要用 “确定吗” 这样的含糊措辞。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-55.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 在对话框中改变内容，不会提交数据，点击确定后，才会发生变化。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对话框上方不能再层叠对话框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-56.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 还有一种简易对话框，不带操作项。点击列表内容触发相应操作，并关闭对话框。点击简易对话框外面，对话框会关闭，操作取消。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-57.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-58.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对话框可以是全屏式的，全屏对话框上方可以再层叠对话框。左图是一个普通界面，其中的任何改动立即生效。右图是全屏对话框，其中任何改动，要点击保存后才生效，点击 X 取消。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 全屏对话框右上角的操作项，可以是诸如保存、发送、添加、分享、更新、创建之类的操作，不要使用完成、OK、关闭这样的含糊措辞。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 只有必填项都填了，右上角的操作项才变为可点击状态。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 内容发生了改变，点左上角的 X，需要有个确认对话框，提示是否忽略修改。内容没有发生改变，点左上角的 X，直接退出全屏对话框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS01OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-59.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 对话框的四周留白比较大，通常是 24dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Dividers&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-60.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 列表中有头像、图片等元素时，使用内嵌分隔线，左端与文字对齐。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-61.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 没有头像、图标等元素时，需要用通栏分隔线。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-62.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 图片本身就起到划定区域的作用，相册列表不需要分隔线。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-63.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 谨慎使用分隔线，留白和小标题也能起到分隔作用。能用留白的地方，优先使用留白。分隔线的层级高于留白。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-64.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通栏分隔线的层级高于内嵌分隔线。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Grids&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-65.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-66.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 网格由单元格构成，单元格中的瓦片用来承载内容。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-67.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 瓦片可以横跨多个单元格。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-68.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 瓦片包含主操作区和副操作区，副操作区的位置可以在上下左右 4 个角落。在同一个网格中，主、副操作区的内容与位置要保持一致。两者的操作都应该直接生效，不能触发菜单。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 网格只能垂直滚动。单个瓦片不支持滑动手势，也不鼓励使用拖放操作。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 网格中的单元格间距是 2dp 或 8dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Lists&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS02OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-69.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-70.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 列表由行构成，行内包含瓦片。如果列表项内容文字超过 3 行，请改用卡片。如果列表项的主要区别在于图片，请改用网格。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-71.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 列表包含主操作区与副操作区。副操作区位于列表右侧，其余都是主操作区。在同一个列表中，主、副操作区的内容与位置要保持一致。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-72.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 在同一个列表中，滑动手势操作保持一致。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-73.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 主操作区与副操作区的图标或图形元素是列表控制项，列表的控制项可以是勾选框、开关、拖动排序、展开 / 收起等操作，也可以包含快捷键提示、二级菜单等提示信息。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Menus&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-74.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 顺序固定的菜单，操作频繁的选项放在上面。顺序可变的菜单，可以把之前用过的选项排在前面，动态排序。菜单尽量不要超过 2 级。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-75.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 当前不可用的选项要显示出来，让用户知道在特定条件可以触发这些操作。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-76.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 菜单原地展开，盖住当前选项，当前选项应该成为菜单的第一项。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-77.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-78.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 菜单的当前选项，始终与当前选项水平对齐。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS03OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-79.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 靠近屏幕边缘时，位置可适当错开。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-80.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 菜单过长时，需要显示滚动条。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-81.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 菜单从当前选项固定位置展开，不要跟随点击位置改变。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-82.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 菜单到上下留出 8dp 距离。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Pickers&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-83.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-84.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 日期和时间选择器是固定组件，在小屏幕设备中，通常以对话框形式展现。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Progress &amp; activity&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xMi5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-12.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 线形进度条只出现在纸片的边缘。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xMy5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-13.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 环形进度条也分时间已知和时间未知两种。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xNC5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-14.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 环形进度条可以用在悬浮按钮上。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xNS5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-15.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 加载详细信息时，也可以使用进度条。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYi0xNi5naWY=">https://image.uisdc.com/wp-content/uploads/2014/12/b-16.gif</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 下拉刷新的动画比较特殊，列表不动，出现一张带有环形进度条的纸片。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Sliders&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-85.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 滑块左右两边可以放置图标。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-86.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 或是可编辑文本框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-87.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 非连续的滑块，需要标出具体数值。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Snackbars &amp; toasts&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-88.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Snackbars 至多包含一个操作项，不能包含图标。不能出现一个以上的 Snackbars。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Snackbars 在移动设备上，出现在底部。在 PC 上，应该悬浮在屏幕左下角。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS04OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-89.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 不一定要用户响应的提示，可以使用 Snackbars。非常重要的提示，必须用户来决定的，应该用对话框。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05MC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-90.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Snackbars 不能遮挡住悬浮按钮，悬浮按钮要上移让出位置。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05MS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-91.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;Snackbars 的留白比较大，24dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05Mi5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-92.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;toasts 和 Snackbars 类似，样式和位置可以自定义，建议遵循 Snackbars 的规则设计。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Subheaders&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05My5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-93.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 小标题是列表或网格中的特殊瓦片，描述列表内容的分类、排序等信息。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05NC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-94.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 滚动时，如果列表较长，小标题会固定在顶部，直到下一个小标题将它顶上去。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05NS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-95.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 存在浮动按钮时，小标题要让出位置，与文字对齐。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Switches&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05Ni5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-96.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 必须所有选项保持可见时，才用 Radio button。不然可以使用下拉菜单，节省空间。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05Ny5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-97.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 在同一个列表中有多项开关，建议使用 Checkbox。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05OC5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-98.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 单个开关项建议使用 Switch。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;<br />
+&lt;h3 id=&quot;toc_38&quot;&gt;Tabs&lt;/h3&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS05OS5wbmc=">https://image.uisdc.com/wp-content/uploads/2014/12/a-99.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;tab 只用来展现不同类型的内容，不能当导航菜单使用。tab 至少 2 项，至多 6 项。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDAucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-100.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 超出 6 项，tab 需要变为滚动式，左右翻页。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDEucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-101.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;tab 文字要显示完整，字号保持一致，不能折行，文字与图标不能混用。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;tab 选中项的下划线高度是 2dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Text fields&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDIucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-102.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 简单一根横线就能代表输入框，可以带图标。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDMucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-103.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 激活状态和错误状态，横线的宽度变为 2dp，颜色改变。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDQucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-104.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 输入框点击区域高度至少 48dp，但横线并不在点击区域的底部，还有 8dp 距离。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDUucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-105.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 输入框提示文字，可以在输入内容后，缩小停留在输入框左上角。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDYucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-106.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 整个点击区域增高，提示文字也是点击区域的一部分。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDcucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-107.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通栏输入框是没有横线的，这种情况下通常有分隔线将输入框隔开。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDgucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-108.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMDkucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-109.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 右下角可以加入字数统计。字数统计不要默认显示，字数接近上限时再显示出来。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTAucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-110.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 通栏输入框也可以有字数统计，单行的字数统计显示在同一行右侧。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTEucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-111.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTIucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-112.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 错误提示显示在输入框的左下方。默认提示文本可以转换为错误提示。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTMucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-113.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 字数限制与错误提示都会使点击区域增高。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTQucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-114.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 同时有多个输入框错误时，顶部要有一个全局的错误提示。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTUucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-115.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTYucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-116.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 输入框尽量带有自动补全功能。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Tooltips&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTcucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-117.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 提示只用在小图标上，文字不需要提示。鼠标悬停、获得焦点、手指长按都可以触发提示。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTgucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-118.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 上图是错误例子。提示不能包含富文本，不需要三角箭头。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMTkucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-119.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjAucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-120.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 触摸提示（左）和鼠标提示（右）的尺寸是不同的，背景都带有 90% 的透明度。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;Navigation drawer&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjEucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-121.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 侧边抽屉从左侧滑出，占据整个屏幕高度，遵循普通列表的布局规则。手机端的侧边抽屉距离屏幕右侧 56dp。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjIucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-122.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjMucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-123.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 侧边抽屉支持滚动。如果内容过长，设置和帮助反馈可以固定在底部。抽屉收起时，会保留之前的滚动位置。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjQucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-124.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 列表较短不需要滚动时，设置和帮助反馈跟随在列表后面。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_42&quot;&gt;&lt;strong &gt; 十、设置界面 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjUucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-125.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjYucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-126.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 设置和帮助反馈通常放在侧边抽屉中。如果没有侧边抽屉，则放在 Appbar 的下拉菜单底部。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 设置界面只能包含设置项，诸如关于、反馈之类的界面，入口应该放在其他地方。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjcucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-127.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 设置项使用通栏分隔线来分组。7 项以下不必分组。如果某项独立一组，考虑把它放在顶部（重要）或放在底部的 “其他” 一栏中（不重要）。设置项较多时尝试合并，比如把两个相关的勾选项合并成一个多选项。设置项非常多时，使用子界面。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_43&quot;&gt;&lt;strong &gt; 十一、易用性 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 无障碍设计 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;material design 很重视用户的广度，应该尽量照顾到残障人士的体验。设计时考虑以下使用场景：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 没有声音 &lt;/li&gt;&lt;li &gt; 没有色彩 &lt;/li&gt;&lt;li &gt; 手机开启了高对比度模式 &lt;/li&gt;&lt;li &gt; 手机画面放大 &lt;/li&gt;&lt;li &gt; 没有视觉信息，使用屏幕阅读器 &lt;/li&gt;&lt;li &gt; 只能通过语音控制 &lt;/li&gt;&lt;li &gt; 以上多项结合 &lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 并注意以下问题：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li &gt; 无鼠标、纯键盘操作。鼠标悬停显示信息，也要通过其他方式展现。&lt;/li&gt;&lt;li &gt; 考虑大字号情况下的使用体验。&lt;/li&gt;&lt;li &gt; 不要只通过颜色表达某些信息。&lt;/li&gt;&lt;li &gt; 音频信息也要提供文字或其他视觉呈现。&lt;/li&gt;&lt;li &gt; 为图片和视频提供备用的文字信息。&lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 本地化 &lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYS0xMjgucG5n">https://image.uisdc.com/wp-content/uploads/2014/12/a-128.png</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 为阿拉伯语、希伯来语、波斯语用户设计相反的界面，他们的书写和阅读习惯是从右到左的。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_46&quot;&gt;&lt;strong &gt; 十二、资源（需要科学上网）&lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:list --&gt;<br />
+&lt;ul&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCMDhNYnZZWksxaU5UMGRGV0ZCamRUTkthWE0vY29sb3Jfc3dhdGNoZXMuemlw">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNT0dFWFBjdTNKaXM/color_swatches.zip</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 配色方案 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdWMnMxYXkxclRtTTBkRzgvTGF5b3V0X01vYmlsZV9XaGl0ZWZyYW1lLmFp">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7V2s1ay1rTmM0dG8/Layout_Mobile_Whiteframe.ai</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 界面模板：手机 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdVMmhIV1Mxa1MxSmpUMGsvTGF5b3V0X1RhYmxldF9XaGl0ZWZyYW1lLmFp">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7U2hHWS1kS1JjT0k/Layout_Tablet_Whiteframe.ai</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 界面模板：平板 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdVSHBqZGxoNWJVZDZaMmMvTGF5b3V0X0Rlc2t0b3BfV2hpdGVmcmFtZS5haQ==">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7UHpjdlh5bUd6Z2c/Layout_Desktop_Whiteframe.ai</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 界面模板：桌面 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdTVUpVUzBkUVZrdG1TWGMvd2hpdGVmcmFtZXMuYWk=">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7SUJUS0dQVktmSXc/whiteframes.ai</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 界面模板：线框图 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCMDhNYnZZWksxaU5aR05vV21KcVZFaFFZVFEvUm9ib3RvVFRGLnppcA==">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNZGNoWmJqVEhQYTQ/RobotoTTF.zip</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 英文字体 Roboto&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCNlZDRE1qRDVfVkFiWFo1V1d4UFJEaFNWVVUvUm9ib3RvU3BlY2ltZW5Cb29rbGV0LnBkZg==">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B6VCDMjD5_VAbXZ5WWxPRDhSVUU/RobotoSpecimenBooklet.pdf</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;Roboto 介绍 &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy5nb29nbGUuY29tL2dldC9ub3RvL3BrZ3MvTm90b1NhbnNDSktTQy1oaW50ZWQuemlw">http://www.google.com/get/noto/pkgs/NotoSansCJKSC-hinted.zip</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 中文字体 Noto&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdNR3R6UzBscGVGWlVZbWMvc3RpY2tlcnNoZWV0X2dlbmVyYWwucHNk">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MGtzS0lpeFZUYmc/stickersheet_general.psd</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 组件集 psd&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdXRFI1UTI1T2NYVnVVMjgvc3RpY2tlcnNoZWV0X2dlbmVyYWwuYWk=">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7WDR5Q25OcXVuU28/stickersheet_general.ai</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 组件集 ai&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCeDRCU3Q2am5pRDdRM0ZWWjBGbk0xOHlUSE0vc3RpY2tlcnNoZWV0X2dlbmVyYWwuc2tldGNo">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7Q3FVZ0FnM18yTHM/stickersheet_general.sketch</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 组件集 sketch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL21hdGVyaWFsLWRlc2lnbi5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1Ymxpc2gvdl8yL21hdGVyaWFsX2V4dF9wdWJsaXNoLzBCMDhNYnZZWksxaU5Veko0YzFWWFdEWXpiVEEvbWF0ZXJpYWwtZGVzaWduLWljb25zLTEuMC4xLnppcA==">http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNUzJ4c1VXWDYzbTA/material-design-icons-1.0.1.zip</span>&quot;rel=&quot;noreferrer noopener&quot;&gt; 系统图标 &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 精华资源两波：&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;<br />
+&lt;ol&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vbWF0ZXJpYWwtZGVzaWduLWZyZWViaWU=">http://www.uisdc.com/material-design-freebie</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《新鲜热辣！一组实用的 Material Design 风格素材！》&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vaGlnaC1xdWFsaXR5LW1hdGVyaWFsLWRlc2lnbi1yZXNvdXJjZQ==">http://www.uisdc.com/high-quality-material-design-resource</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《该跟上潮流了！一大波优质的 MATERIAL DESIGN 资源免费下载》&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;<br />
+&lt;!-- /wp:list --&gt;</p>
+<p>&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;<br />
+&lt;h4 id=&quot;toc_47&quot;&gt;&lt;strong &gt; 实践 &lt;/strong&gt;&lt;/h4&gt;<br />
+&lt;!-- /wp:heading --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt; 最后，展示一下朋友的项目 —— 云集（&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL2x5ZGlhYm94LmNvbS8=">http://lydiabox.com/</span>&quot; rel=&quot;noreferrer noopener&quot;&gt;<span class="exturl" data-url="aHR0cDovL2x5ZGlhYm94LmNvbQ==">http://lydiabox.com</span>&lt;/a&gt;）的部分界面。这是一款浏览器，也是一个 html5 应用平台。功能结构不算复杂，但也有它的特殊性。非常适合用来理解 material design，并尝试做一些变通。&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy0xLmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-1.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy0yLmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-2.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy0zLmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-3.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy00LmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-4.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy01LmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-5.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:image --&gt;<br />
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;<span class="exturl" data-url="aHR0cHM6Ly9pbWFnZS51aXNkYy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTIvYy02LmpwZw==">https://image.uisdc.com/wp-content/uploads/2014/12/c-6.jpg</span>&quot; alt=&quot;&quot;/&gt;&lt;/figure&gt;<br />
+&lt;!-- /wp:image --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong&gt;【加上这三篇，Material design 学习资料就够了！】&lt;/strong&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;</p>
+<p>&lt;!-- wp:quote --&gt;<br />
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;&lt;strong&gt;Material design 到底有哪些过人之处？来这儿学习！&lt;/strong&gt;&lt;br&gt;&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vbWF0ZXJpYWwtZGVzaWduLXRyZW5kcw==">http://www.uisdc.com/material-design-trends</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《超全面总结！深聊 MATERIAL DESIGN 引领的设计趋势》&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;<br />
+&lt;!-- /wp:quote --&gt;</p>
+<p>&lt;!-- wp:quote --&gt;<br />
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;&lt;strong &gt; 同样来自学霸的自学笔记，干货满满！&lt;/strong&gt;&lt;br&gt;&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vbWF0ZXJpYWwtZGVzaWduLWxlYXJuaW5nLWV4cGVyaWVuY2U=">http://www.uisdc.com/material-design-learning-experience</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《学霸的自学笔记！Material Design 设计规范学习心得》&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong &gt; 谷歌自家设计师对它的看法与实践心得：&lt;/strong&gt;&lt;br&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL3d3dy51aXNkYy5jb20vbWF0ZXJpYWwtZGVzaWduLWdvb2dsZS1pby1hcHA=">http://www.uisdc.com/material-design-google-io-app</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;《超赞！谷歌设计师的 Material Design 实践心得》&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;<br />
+&lt;!-- /wp:quote --&gt;</p>
+<p>&lt;!-- wp:paragraph --&gt;<br />
+&lt;p&gt;&lt;strong &gt; 原文地址：&lt;/strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;<span class="exturl" data-url="aHR0cDovL2NvbGFjaGFuLmNvbS9wb3N0LzM0MTY=">http://colachan.com/post/3416</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;colachan&lt;/a&gt;&lt;br&gt;&lt;strong &gt; 作者：&lt;/strong&gt;&lt;a target=&quot;_blank&quot;href=&quot;<span class="exturl" data-url="aHR0cDovL3dlaWJvLmNvbS9ncmVlbnpvcnJv">http://weibo.com/greenzorro</span>&quot;rel=&quot;noreferrer noopener&quot;&gt;@十萬個為什麽 &lt;/a&gt;&lt;/p&gt;<br />
+&lt;!-- /wp:paragraph --&gt;&lt;!-- wp:quote --&gt;</p>
+]]></content>
+      <categories>
+        <category>设计</category>
+      </categories>
+      <tags>
+        <tag>Material Design</tag>
+        <tag>设计</tag>
+      </tags>
+  </entry>
+</search>
